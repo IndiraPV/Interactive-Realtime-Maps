@@ -2,6 +2,7 @@
 
 ## USGS
 
+live [demo](https://indirapv.github.io/Earthquake-Data-Visualization)
 
 Welcome to the United States Geological Survey, or USGS for short! 
 
