@@ -2,7 +2,7 @@
 
 ## USGS
 
-live [demo](https://indirapv.github.io/Earthquake-Data-Visualization)
+live [demo](https://github.com/IndiraPV/Interactive-And-Realtime-Maps)
 
 Welcome to the United States Geological Survey, or USGS for short! 
 
@@ -41,4 +41,4 @@ For this challenge:
 
 ### Copyright
 
-Trilogy Education Services © 2019. All Rights Reserved.
+Indira V. Poovambur © 2019.
