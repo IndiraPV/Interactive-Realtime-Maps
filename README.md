@@ -2,7 +2,7 @@
 
 ## USGS
 
-live [demo](https://github.com/IndiraPV/Interactive-And-Realtime-Maps)
+live [demo](https://indirapv.github.io/Interactive-And-Realtime-Maps/)
 
 Welcome to the United States Geological Survey, or USGS for short! 
 
